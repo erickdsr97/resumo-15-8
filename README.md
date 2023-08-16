@@ -1,6 +1,6 @@
 # resumo-15-8
 
-<h1>Resumo aula 15 de agosto</h1>h1>
+<h1>Resumo aula 15 de agosto</h1>
 <p>3 fases<br>
 analise<br>
 algoritmo<br>
